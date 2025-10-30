@@ -241,6 +241,5 @@ If corporate CA certs are required, configure them in `~/.ssh/config` or `.bashr
     pre-commit run --all-files
     ```
 
-```
 
 
